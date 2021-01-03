@@ -10,4 +10,3 @@ Look [here](http://google.com) for more information.
 ```
 git checkout -b featureName
 ```
-Testing connection.
