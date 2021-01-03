@@ -10,3 +10,4 @@ Look [here](http://google.com) for more information.
 ```
 git checkout -b featureName
 ```
+Testar att öppna fil från Terminal och pusha.
