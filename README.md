@@ -12,3 +12,5 @@ git checkout -b featureName
 ```
 A new row from GitBash in Win 10.
 A new row from Windows Terminal in WSL2/Win 10.
+Another row fron Windows Terminal in WSL2/Win10.
+
