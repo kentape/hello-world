@@ -10,3 +10,9 @@ Just created a new branch from Atom and add some stuff to it.
 Again
 
 Igen
+
+Look [here](http://google.com) for more information.
+
+```
+git checkout -b featureName
+```
